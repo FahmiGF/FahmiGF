@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/fahmigemafadilla/)">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/USERNAME-KAMU">
+  <a href="https://www.instagram.com/fahmi_gema">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
