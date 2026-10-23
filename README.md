@@ -29,10 +29,10 @@
 
 <h2 align="center">👩‍💻 Stats 👩‍💻</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fahmi &show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmi &layout=compact&theme=tokyonight" />
-</p>
+## <p align="center">
+##  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fahmi &show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+##  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmi &layout=compact&theme=tokyonight" />
+## </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fahmi&theme=tokyonight" />
