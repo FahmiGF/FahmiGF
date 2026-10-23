@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+Ethusiast+On+AI+developer;Building+meaningful+projects;Learning+Artificial+Intelligence" alt="Typing SVG" />
+  <h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Learning+Ethusiast+On+AI+developer;Building+Innovative+projects;Learning+Artificia" alt="Running Text SVG" />
 </h3>
 
 ---
