@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=a+passionate+AI+developer;Building+meaningful+projects;Learning+Artificial+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Learning Ethusiast+On+AI+developer;Building+meaningful+projects;Learning+Artificial+Intelligence" alt="Typing SVG" />
 </h3>
 
 ---
@@ -28,11 +28,6 @@
 </p>
 
 <h2 align="center">👩‍💻 Stats 👩‍💻</h2>
-
-## <p align="center">
-##  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fahmi &show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-##  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmi &layout=compact&theme=tokyonight" />
-## </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fahmi&theme=tokyonight" />
